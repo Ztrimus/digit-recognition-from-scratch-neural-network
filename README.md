@@ -2,7 +2,7 @@
 
 Computer Vision | CNN | PyTorch API | Pandas
 
-The primary intenation behind doing this project to get in depth knowlege of neural Network.
+The primary intenation behind doing this project to get in-depth knowledge of neural network created a simple digit recognition system from a basic level without using any machine learning packages.
 
 Hence I use only pytorch API for this. 
 Avoid use of built-in function and model in pytorch like torch.nn, torch.functional, torch.optim and etc.
