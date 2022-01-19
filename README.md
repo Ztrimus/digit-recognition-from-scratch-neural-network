@@ -1,5 +1,7 @@
 # Digit-Recognition-From-Scratch-NeuralNet
 
+Computer Vision | CNN | PyTorch API | Pandas
+
 The primary intenation behind doing this project to get in depth knowlege of neural Network.
 
 Hence I use only pytorch API for this. 
